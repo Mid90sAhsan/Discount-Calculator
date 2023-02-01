@@ -1,3 +1,3 @@
 # Simple Discount Calculator
 
-Simple discount calculator built in React.
+Simple discount calculator built in React!
