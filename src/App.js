@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import './css/Fonts.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import './css/App.css';
