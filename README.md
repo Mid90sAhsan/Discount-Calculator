@@ -1,3 +1,5 @@
 # Simple Discount Calculator
 
-Simple discount calculator built in React!
+A simple discount calculator built in react!
+
+You can check demo at : dis-calculator.netlify.app
