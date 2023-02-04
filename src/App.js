@@ -8,7 +8,7 @@ function App() {
     return (
         <React.Fragment>
             <div className='container-fluid'>
-                <div className="col-md-4 offset-md-4 mt-5 text-center">
+                <div className="col-md-4 offset-md-4 mt-5 mb-2 text-center">
                     <h1 className="fw-bold">Discount Calculator</h1>
                 </div>
 
